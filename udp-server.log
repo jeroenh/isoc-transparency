@@ -1,0 +1,252 @@
+Telfort (RSPLIET)
+2013-07-23 20:45:50,905 starting up on positron.dckd.nl port 5060
+2013-07-23 20:45:50,907 waiting to receive message
+2013-07-23 20:45:58,993 starting up on positron.dckd.nl port 5061
+2013-07-23 20:45:58,995 waiting to receive message
+2013-07-23 20:46:51,212 received 20 bytes from ('92.69.197.167', 42298) on 5061
+2013-07-23 20:46:51,212 	 This is the message.
+2013-07-23 20:46:51,213 sent 20 bytes back to ('92.69.197.167', 42298)
+2013-07-23 20:46:51,213 waiting to receive message
+2013-07-23 20:47:18,801 received 20 bytes from ('92.69.197.167', 42312) on 5061
+2013-07-23 20:47:18,801 	 This is the message.
+2013-07-23 20:47:18,801 sent 20 bytes back to ('92.69.197.167', 42312)
+2013-07-23 20:47:18,801 waiting to receive message
+
+Vodafone Zakelijk (fish__)
+2013-07-23 20:50:27,054 received 20 bytes from ('62.140.137.159', 1860) on 5061
+2013-07-23 20:50:27,054 	 This is the message.
+2013-07-23 20:50:27,054 sent 20 bytes back to ('62.140.137.159', 1860)
+2013-07-23 20:50:27,055 waiting to receive message
+2013-07-23 20:50:27,363 received 20 bytes from ('62.140.137.159', 27480) on 5060
+2013-07-23 20:50:27,363 	 This is the message.
+2013-07-23 20:50:27,363 sent 20 bytes back to ('62.140.137.159', 27480)
+2013-07-23 20:50:27,363 waiting to receive message
+AH
+2013-07-23 21:10:21,310 starting up on positron.dckd.nl port 5060
+2013-07-23 21:10:21,314 waiting to receive message
+2013-07-23 21:10:36,057 starting up on positron.dckd.nl port 5061
+2013-07-23 21:10:36,060 waiting to receive message
+2013-07-23 21:11:42,646 received 20 bytes from ('92.69.203.116', 31558) on 5061
+2013-07-23 21:11:42,646 	 This is the message.
+2013-07-23 21:11:42,646 sent 20 bytes back to ('92.69.203.116', 31558)
+2013-07-23 21:11:42,646 waiting to receive message
+2013-07-24 00:05:04,607 received 414 bytes from ('85.114.130.40', 5100) on 5060
+2013-07-24 00:05:04,608 	 OPTIONS sip:100@94.142.246.99 SIP/2.0
+Via: SIP/2.0/UDP 85.114.130.40:5100;branch=z9hG4bK-635781953;rport
+Content-Length: 0
+From: "sipvicious"<sip:100@1.1.1.1>;tag=3565386566363633313363340134323732363533313135
+Accept: application/sdp
+User-Agent: friendly-scanner
+To: "sipvicious"<sip:100@1.1.1.1>
+Contact: sip:100@85.114.130.40:5100
+CSeq: 1 OPTIONS
+Call-ID: 1193592665406345452814256
+Max-Forwards: 70
+
+
+2013-07-24 00:05:04,608 sent 414 bytes back to ('85.114.130.40', 5100)
+2013-07-24 00:05:04,608 waiting to receive message
+2013-07-24 00:14:35,092 received 407 bytes from ('198.98.113.154', 5217) on 5060
+2013-07-24 00:14:35,092 	 OPTIONS sip:100@94.142.246.99 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5217;branch=z9hG4bK-1041339366;rport
+Content-Length: 0
+From: "sipvicious"<sip:100@1.1.1.1>;tag=3565386566363633313363340133303133343832303132
+Accept: application/sdp
+User-Agent: friendly-scanner
+To: "sipvicious"<sip:100@1.1.1.1>
+Contact: sip:100@127.0.0.1:5217
+CSeq: 1 OPTIONS
+Call-ID: 1166293279713755998045011
+Max-Forwards: 70
+
+
+2013-07-24 00:14:35,093 sent 407 bytes back to ('198.98.113.154', 5217)
+2013-07-24 00:14:35,093 waiting to receive message
+2013-07-24 03:47:54,655 received 414 bytes from ('85.25.136.36', 5089) on 5060
+2013-07-24 03:47:54,673 	 OPTIONS sip:100@94.142.246.99 SIP/2.0
+Via: SIP/2.0/UDP 62.75.212.215:5089;branch=z9hG4bK-351852327;rport
+Content-Length: 0
+From: "sipvicious"<sip:100@1.1.1.1>; tag=3565386566363633313363340133373239313738383435
+Accept: application/sdp
+User-Agent: friendly-scanner
+To: "sipvicious"<sip:100@1.1.1.1>
+Contact: sip:100@62.75.212.215:5089
+CSeq: 1 OPTIONS
+Call-ID: 473274417229720742098626
+Max-Forwards: 70
+
+
+2013-07-24 03:47:54,673 sent 414 bytes back to ('85.25.136.36', 5089)
+2013-07-24 03:47:54,673 waiting to receive message
+2013-07-24 05:44:46,606 received 405 bytes from ('208.38.164.53', 5065) on 5060
+2013-07-24 05:44:46,623 	 OPTIONS sip:100@94.142.246.99 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5065;branch=z9hG4bK-545581118;rport
+Content-Length: 0
+From: "sipvicious"<sip:100@1.1.1.1>;tag=3565386566363633313363340132353833323736323436
+Accept: application/sdp
+User-Agent: friendly-scanner
+To: "sipvicious"<sip:100@1.1.1.1>
+Contact: sip:100@127.0.0.1:5065
+CSeq: 1 OPTIONS
+Call-ID: 125959543357233094340742
+Max-Forwards: 70
+
+
+2013-07-24 05:44:46,636 sent 405 bytes back to ('208.38.164.53', 5065)
+2013-07-24 05:44:46,636 waiting to receive message
+2013-07-24 08:03:57,391 received 408 bytes from ('66.197.207.74', 5100) on 5060
+2013-07-24 08:03:57,391 	 OPTIONS sip:100@94.142.246.99 SIP/2.0
+Via: SIP/2.0/UDP 96.9.165.35:5100;branch=z9hG4bK-3402047255;rport
+Content-Length: 0
+From: "sipvicious"<sip:100@1.1.1.1>;tag=35653865663636333133633401363338343433393534
+Accept: application/sdp
+User-Agent: friendly-scanner
+To: "sipvicious"<sip:100@1.1.1.1>
+Contact: sip:100@96.9.165.35:5100
+CSeq: 1 OPTIONS
+Call-ID: 275490131977846766132308
+Max-Forwards: 70
+
+
+2013-07-24 08:03:57,392 sent 408 bytes back to ('66.197.207.74', 5100)
+2013-07-24 08:03:57,392 waiting to receive message
+2013-07-24 09:32:01,780 received 20 bytes from ('212.238.37.145', 58371) on 5061
+2013-07-24 09:32:01,780 	 This is the message.
+2013-07-24 09:32:01,780 sent 20 bytes back to ('212.238.37.145', 58371)
+2013-07-24 09:32:01,780 waiting to receive message
+2013-07-24 09:32:01,802 received 20 bytes from ('212.238.37.145', 53931) on 5060
+2013-07-24 09:32:01,803 	 This is the message.
+2013-07-24 09:32:01,803 sent 20 bytes back to ('212.238.37.145', 53931)
+2013-07-24 09:32:01,803 waiting to receive message
+2013-07-24 09:33:49,158 received 407 bytes from ('173.242.119.68', 5068) on 5060
+2013-07-24 09:33:49,159 	 OPTIONS sip:100@94.142.246.99 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5068;branch=z9hG4bK-2980022896;rport
+Content-Length: 0
+From: "sipvicious"<sip:100@1.1.1.1>; tag=3565386566363633313363340131323133313938393938
+Accept: application/sdp
+User-Agent: friendly-scanner
+To: "sipvicious"<sip:100@1.1.1.1>
+Contact: sip:100@127.0.0.1:5068
+CSeq: 1 OPTIONS
+Call-ID: 704804466998413709255088
+Max-Forwards: 70
+
+
+2013-07-24 09:33:49,159 sent 407 bytes back to ('173.242.119.68', 5068)
+2013-07-24 09:33:49,159 waiting to receive message
+2013-07-31 08:08:37,204 starting up on positron.dckd.nl port 5060
+2013-07-31 08:08:37,216 waiting to receive message
+2013-07-31 08:08:50,066 starting up on positron.dckd.nl port 5061
+2013-07-31 08:08:50,069 waiting to receive message
+2013-07-31 08:10:28,742 received 414 bytes from ('85.114.130.40', 5096) on 5060
+2013-07-31 08:10:28,742 	 OPTIONS sip:100@94.142.246.99 SIP/2.0
+Via: SIP/2.0/UDP 85.114.130.40:5096;branch=z9hG4bK-1171465037;rport
+Content-Length: 0
+From: "sipvicious"<sip:100@1.1.1.1>;tag=3565386566363633313363340134303438343439383234
+Accept: application/sdp
+User-Agent: friendly-scanner
+To: "sipvicious"<sip:100@1.1.1.1>
+Contact: sip:100@85.114.130.40:5096
+CSeq: 1 OPTIONS
+Call-ID: 343678901593676018314345
+Max-Forwards: 70
+
+
+2013-07-31 08:10:28,742 sent 414 bytes back to ('85.114.130.40', 5096)
+2013-07-31 08:10:28,742 waiting to receive message
+2013-07-31 08:11:48,712 received 20 bytes from ('92.69.209.59', 58340) on 5061
+2013-07-31 08:11:48,713 	 This is the message.
+2013-07-31 08:11:48,713 sent 20 bytes back to ('92.69.209.59', 58340)
+2013-07-31 08:11:48,713 waiting to receive message
+2013-07-31 08:13:02,780 received 416 bytes from ('109.230.220.159', 5067) on 5060
+2013-07-31 08:13:02,781 	 OPTIONS sip:100@94.142.246.99 SIP/2.0
+Via: SIP/2.0/UDP 109.230.220.159:5067;branch=z9hG4bK-1162959380;rport
+Content-Length: 0
+From: "sipvicious"<sip:100@1.1.1.1>;tag=35653865663636333133633401363339393139393038
+Accept: application/sdp
+User-Agent: friendly-scanner
+To: "sipvicious"<sip:100@1.1.1.1>
+Contact: sip:100@109.230.220.159:5067
+CSeq: 1 OPTIONS
+Call-ID: 835128692821952604008812
+Max-Forwards: 70
+
+
+2013-07-31 08:13:02,781 sent 416 bytes back to ('109.230.220.159', 5067)
+2013-07-31 08:13:02,781 waiting to receive message
+2013-07-31 08:16:30,907 received 20 bytes from ('92.69.209.59', 58175) on 5061
+2013-07-31 08:16:30,907 	 This is the message.
+2013-07-31 08:16:30,908 sent 20 bytes back to ('92.69.209.59', 58175)
+2013-07-31 08:16:30,908 waiting to receive message
+2013-07-31 08:17:54,048 received 20 bytes from ('92.69.209.59', 58244) on 5061
+2013-07-31 08:17:54,061 	 This is the message.
+2013-07-31 08:17:54,062 sent 20 bytes back to ('92.69.209.59', 58244)
+2013-07-31 08:17:54,062 waiting to receive message
+2013-07-31 08:18:25,528 received 20 bytes from ('92.69.209.59', 58306) on 5061
+2013-07-31 08:18:25,528 	 This is the message.
+2013-07-31 08:18:25,529 sent 20 bytes back to ('92.69.209.59', 58306)
+2013-07-31 08:18:25,529 waiting to receive message
+2013-07-31 08:18:55,100 received 20 bytes from ('92.69.209.59', 58325) on 5061
+2013-07-31 08:18:55,100 	 This is the message.
+2013-07-31 08:18:55,100 sent 20 bytes back to ('92.69.209.59', 58325)
+2013-07-31 08:18:55,100 waiting to receive message
+2013-07-31 08:19:17,138 received 20 bytes from ('92.69.209.59', 58182) on 5061
+2013-07-31 08:19:17,138 	 This is the message.
+2013-07-31 08:19:17,138 sent 20 bytes back to ('92.69.209.59', 58182)
+2013-07-31 08:19:17,138 waiting to receive message
+2013-07-31 08:19:43,204 received 20 bytes from ('92.69.209.59', 58207) on 5061
+2013-07-31 08:19:43,205 	 This is the message.
+2013-07-31 08:19:43,205 sent 20 bytes back to ('92.69.209.59', 58207)
+2013-07-31 08:19:43,205 waiting to receive message
+2013-07-31 08:19:50,424 received 20 bytes from ('92.69.209.59', 58209) on 5061
+2013-07-31 08:19:50,424 	 This is the message.
+2013-07-31 08:19:50,425 sent 20 bytes back to ('92.69.209.59', 58209)
+2013-07-31 08:19:50,425 waiting to receive message
+2013-07-31 10:03:53,453 starting up on positron.dckd.nl port 5061
+2013-07-31 10:03:53,455 waiting to receive message
+2013-07-31 10:03:55,873 starting up on positron.dckd.nl port 5060
+2013-07-31 10:03:55,876 waiting to receive message
+2013-07-31 10:05:25,097 received 20 bytes from ('188.207.71.18', 30243) on 5061
+2013-07-31 10:05:25,097 	 This is the message.
+2013-07-31 10:05:25,097 sent 20 bytes back to ('188.207.71.18', 30243)
+2013-07-31 10:05:25,097 waiting to receive message
+2013-07-31 10:05:41,134 received 20 bytes from ('188.207.71.18', 30247) on 5061
+2013-07-31 10:05:41,134 	 This is the message.
+2013-07-31 10:05:41,134 sent 20 bytes back to ('188.207.71.18', 30247)
+2013-07-31 10:05:41,135 waiting to receive message
+2013-07-31 10:06:22,762 received 20 bytes from ('188.207.71.18', 30315) on 5061
+2013-07-31 10:06:22,762 	 This is the message.
+2013-07-31 10:06:22,762 sent 20 bytes back to ('188.207.71.18', 30315)
+2013-07-31 10:06:22,762 waiting to receive message
+2013-07-31 10:07:19,659 received 20 bytes from ('188.207.71.18', 30406) on 5061
+2013-07-31 10:07:19,660 	 This is the message.
+2013-07-31 10:07:19,660 sent 20 bytes back to ('188.207.71.18', 30406)
+2013-07-31 10:07:19,660 waiting to receive message
+2013-07-31 10:08:12,152 received 20 bytes from ('188.207.71.18', 30318) on 5061
+2013-07-31 10:08:12,153 	 This is the message.
+2013-07-31 10:08:12,153 sent 20 bytes back to ('188.207.71.18', 30318)
+2013-07-31 10:08:12,153 waiting to receive message
+2013-07-31 10:08:20,858 received 20 bytes from ('188.207.71.18', 30463) on 5061
+2013-07-31 10:08:20,858 	 This is the message.
+2013-07-31 10:08:20,858 sent 20 bytes back to ('188.207.71.18', 30463)
+2013-07-31 10:08:20,858 waiting to receive message
+2013-07-31 10:08:31,028 received 20 bytes from ('188.207.71.18', 30211) on 5061
+2013-07-31 10:08:31,028 	 This is the message.
+2013-07-31 10:08:31,028 sent 20 bytes back to ('188.207.71.18', 30211)
+2013-07-31 10:08:31,028 waiting to receive message
+2013-07-31 10:14:03,583 received 20 bytes from ('62.140.137.98', 22228) on 5061
+2013-07-31 10:14:03,584 	 This is the message.
+2013-07-31 10:14:03,584 sent 20 bytes back to ('62.140.137.98', 22228)
+2013-07-31 10:14:03,584 waiting to receive message
+2013-07-31 10:14:05,084 received 20 bytes from ('62.140.137.98', 22393) on 5060
+2013-07-31 10:14:05,084 	 This is the message.
+2013-07-31 10:14:05,084 sent 20 bytes back to ('62.140.137.98', 22393)
+2013-07-31 10:14:05,084 waiting to receive message
+2013-07-31 10:14:10,364 received 20 bytes from ('62.140.137.98', 16830) on 5061
+2013-07-31 10:14:10,364 	 This is the message.
+2013-07-31 10:14:10,364 sent 20 bytes back to ('62.140.137.98', 16830)
+2013-07-31 10:14:10,364 waiting to receive message
+2013-07-31 10:14:14,336 received 20 bytes from ('62.140.137.98', 17595) on 5060
+2013-07-31 10:14:14,336 	 This is the message.
+2013-07-31 10:14:14,336 sent 20 bytes back to ('62.140.137.98', 17595)
+2013-07-31 10:14:14,336 waiting to receive message

@@ -1,0 +1,288 @@
+2013-07-17 16:35:28,486 Socket timeout is set to 3.0 seconds
+2013-07-17 16:35:28,486 sending "This is the message." on port 5061
+2013-07-17 16:35:28,487 waiting to receive
+2013-07-17 16:35:28,492 received reply for port 5061
+2013-07-17 16:35:28,493 closing socket
+2013-07-17 16:35:28,493 Socket timeout is set to 3.0 seconds
+2013-07-17 16:35:28,493 sending "This is the message." on port 5060
+2013-07-17 16:35:28,493 waiting to receive
+2013-07-17 16:35:28,502 received reply for port 5060
+2013-07-17 16:35:28,502 closing socket
+2013-07-17 16:35:48,826 Socket timeout is set to 3.0 seconds
+2013-07-17 16:35:48,827 sending "This is the message." on port 5061
+2013-07-17 16:35:48,835 waiting to receive
+2013-07-17 16:35:48,871 received reply for port 5061
+2013-07-17 16:35:48,871 closing socket
+2013-07-17 16:35:48,871 Socket timeout is set to 3.0 seconds
+2013-07-17 16:35:48,871 sending "This is the message." on port 5060
+2013-07-17 16:35:48,871 waiting to receive
+2013-07-17 16:35:48,882 received reply for port 5060
+2013-07-17 16:35:48,882 closing socket
+2013-07-17 16:36:15,409 Socket timeout is set to 3.0 seconds
+2013-07-17 16:36:15,409 sending "This is the message." on port 5061
+2013-07-17 16:36:15,412 waiting to receive
+2013-07-17 16:36:15,415 received reply for port 5061
+2013-07-17 16:36:15,415 closing socket
+2013-07-17 16:36:15,415 Socket timeout is set to 3.0 seconds
+2013-07-17 16:36:15,415 sending "This is the message." on port 5060
+2013-07-17 16:36:15,416 waiting to receive
+2013-07-17 16:36:15,418 received reply for port 5060
+2013-07-17 16:36:15,418 closing socket
+2013-07-17 16:36:40,026 Socket timeout is set to 3.0 seconds
+2013-07-17 16:36:40,026 sending "This is the message." on port 5061
+2013-07-17 16:36:43,449 waiting to receive
+2013-07-17 16:36:45,856 received reply for port 5061
+2013-07-17 16:36:45,856 closing socket
+2013-07-17 16:36:45,856 Socket timeout is set to 3.0 seconds
+2013-07-17 16:36:45,856 sending "This is the message." on port 5060
+2013-07-17 16:36:45,857 waiting to receive
+2013-07-17 16:36:48,858 Response timed out after 3.0 seconds
+2013-07-17 16:36:48,858 closing socket
+2013-07-17 16:36:53,501 Socket timeout is set to 3.0 seconds
+2013-07-17 16:36:53,501 sending "This is the message." on port 5061
+2013-07-17 16:36:53,502 waiting to receive
+2013-07-17 16:36:56,504 Response timed out after 3.0 seconds
+2013-07-17 16:36:56,504 closing socket
+2013-07-17 16:36:56,504 Socket timeout is set to 3.0 seconds
+2013-07-17 16:36:56,504 sending "This is the message." on port 5060
+2013-07-17 16:36:56,505 waiting to receive
+2013-07-17 16:36:59,506 Response timed out after 3.0 seconds
+2013-07-17 16:36:59,506 closing socket
+2013-07-17 16:37:09,427 Socket timeout is set to 5.0 seconds
+2013-07-17 16:37:09,427 sending "This is the message." on port 5061
+2013-07-17 16:37:09,428 waiting to receive
+2013-07-17 16:37:09,753 received reply for port 5061
+2013-07-17 16:37:09,753 closing socket
+2013-07-17 16:37:09,753 Socket timeout is set to 5.0 seconds
+2013-07-17 16:37:09,753 sending "This is the message." on port 5060
+2013-07-17 16:37:09,753 waiting to receive
+2013-07-17 16:37:14,755 Response timed out after 5.0 seconds
+2013-07-17 16:37:14,755 closing socket
+2013-07-17 16:37:18,422 Socket timeout is set to 5.0 seconds
+2013-07-17 16:37:18,422 sending "This is the message." on port 5061
+2013-07-17 16:37:18,423 waiting to receive
+2013-07-17 16:37:21,923 received reply for port 5061
+2013-07-17 16:37:21,923 closing socket
+2013-07-17 16:37:21,923 Socket timeout is set to 5.0 seconds
+2013-07-17 16:37:21,923 sending "This is the message." on port 5060
+2013-07-17 16:37:21,924 waiting to receive
+2013-07-17 16:37:26,925 Response timed out after 5.0 seconds
+2013-07-17 16:37:26,925 closing socket
+2013-07-17 16:37:29,804 Socket timeout is set to 5.0 seconds
+2013-07-17 16:37:29,804 sending "This is the message." on port 5061
+2013-07-17 16:37:29,804 waiting to receive
+2013-07-17 16:37:34,806 Response timed out after 5.0 seconds
+2013-07-17 16:37:34,806 closing socket
+2013-07-17 16:37:34,806 Socket timeout is set to 5.0 seconds
+2013-07-17 16:37:34,806 sending "This is the message." on port 5060
+2013-07-17 16:37:34,807 waiting to receive
+2013-07-17 16:37:39,808 Response timed out after 5.0 seconds
+2013-07-17 16:37:39,808 closing socket
+2013-07-17 16:37:48,287 Socket timeout is set to 5.0 seconds
+2013-07-17 16:37:48,287 sending "This is the message." on port 5061
+2013-07-17 16:37:48,287 waiting to receive
+2013-07-17 16:37:53,287 Response timed out after 5.0 seconds
+2013-07-17 16:37:53,288 closing socket
+2013-07-17 16:37:53,288 Socket timeout is set to 5.0 seconds
+2013-07-17 16:37:53,288 sending "This is the message." on port 5060
+2013-07-17 16:37:53,288 waiting to receive
+2013-07-17 16:37:58,290 Response timed out after 5.0 seconds
+2013-07-17 16:37:58,290 closing socket
+2013-07-17 16:42:40,631 Socket timeout is set to 5.0 seconds
+2013-07-17 16:42:40,632 sending "This is the message." on port 5061
+2013-07-17 16:42:40,696 waiting to receive
+2013-07-17 16:42:40,756 received reply for port 5061
+2013-07-17 16:42:40,756 closing socket
+2013-07-17 16:42:40,756 Socket timeout is set to 5.0 seconds
+2013-07-17 16:42:40,756 sending "This is the message." on port 5060
+2013-07-17 16:42:40,757 waiting to receive
+2013-07-17 16:42:45,758 Response timed out after 5.0 seconds
+2013-07-17 16:42:45,758 closing socket
+2013-07-17 16:42:48,618 Socket timeout is set to 5.0 seconds
+2013-07-17 16:42:48,618 sending "This is the message." on port 5061
+2013-07-17 16:42:48,619 waiting to receive
+2013-07-17 16:42:48,834 received reply for port 5061
+2013-07-17 16:42:48,834 closing socket
+2013-07-17 16:42:48,834 Socket timeout is set to 5.0 seconds
+2013-07-17 16:42:48,834 sending "This is the message." on port 5060
+2013-07-17 16:42:48,834 waiting to receive
+2013-07-17 16:42:53,836 Response timed out after 5.0 seconds
+2013-07-17 16:42:53,836 closing socket
+2013-07-17 16:42:55,538 Socket timeout is set to 5.0 seconds
+2013-07-17 16:42:55,538 sending "This is the message." on port 5061
+2013-07-17 16:42:55,538 waiting to receive
+2013-07-17 16:42:55,617 received reply for port 5061
+2013-07-17 16:42:55,617 closing socket
+2013-07-17 16:42:55,617 Socket timeout is set to 5.0 seconds
+2013-07-17 16:42:55,617 sending "This is the message." on port 5060
+2013-07-17 16:42:55,618 waiting to receive
+2013-07-17 16:43:00,619 Response timed out after 5.0 seconds
+2013-07-17 16:43:00,619 closing socket
+2013-07-31 08:11:50,502 Socket timeout is set to 5.0 seconds
+2013-07-31 08:11:50,502 sending "This is the message." on port 5061
+2013-07-31 08:11:50,503 waiting to receive
+2013-07-31 08:11:50,693 received reply for port 5061
+2013-07-31 08:11:50,693 closing socket
+2013-07-31 08:11:50,693 Socket timeout is set to 5.0 seconds
+2013-07-31 08:11:50,693 sending "This is the message." on port 5060
+2013-07-31 08:11:50,693 waiting to receive
+2013-07-31 08:11:55,694 Response timed out after 5.0 seconds
+2013-07-31 08:11:55,695 closing socket
+2013-07-31 08:16:31,975 Socket timeout is set to 5.0 seconds
+2013-07-31 08:16:31,975 sending "This is the message." on port 5061
+2013-07-31 08:16:31,976 waiting to receive
+2013-07-31 08:16:32,982 received reply for port 5061
+2013-07-31 08:16:32,983 closing socket
+2013-07-31 08:16:32,983 Socket timeout is set to 5.0 seconds
+2013-07-31 08:16:32,983 sending "This is the message." on port 5060
+2013-07-31 08:16:32,983 waiting to receive
+2013-07-31 08:16:37,984 Response timed out after 5.0 seconds
+2013-07-31 08:16:37,985 closing socket
+2013-07-31 08:17:51,060 Socket timeout is set to 20.0 seconds
+2013-07-31 08:17:51,060 sending "This is the message." on port 5061
+2013-07-31 08:17:51,061 waiting to receive
+2013-07-31 08:18:04,469 received reply for port 5061
+2013-07-31 08:18:04,470 closing socket
+2013-07-31 08:18:04,470 Socket timeout is set to 20.0 seconds
+2013-07-31 08:18:04,470 sending "This is the message." on port 5060
+2013-07-31 08:18:04,470 waiting to receive
+2013-07-31 08:18:24,470 Response timed out after 20.0 seconds
+2013-07-31 08:18:24,470 closing socket
+2013-07-31 08:18:27,322 Socket timeout is set to 20.0 seconds
+2013-07-31 08:18:27,322 sending "This is the message." on port 5061
+2013-07-31 08:18:27,323 waiting to receive
+2013-07-31 08:18:35,847 received reply for port 5061
+2013-07-31 08:18:35,847 closing socket
+2013-07-31 08:18:35,847 Socket timeout is set to 20.0 seconds
+2013-07-31 08:18:35,847 sending "This is the message." on port 5060
+2013-07-31 08:18:35,848 waiting to receive
+2013-07-31 08:18:55,849 Response timed out after 20.0 seconds
+2013-07-31 08:18:55,849 closing socket
+2013-07-31 08:18:56,832 Socket timeout is set to 20.0 seconds
+2013-07-31 08:18:56,833 sending "This is the message." on port 5061
+2013-07-31 08:18:56,833 waiting to receive
+2013-07-31 08:19:16,834 Response timed out after 20.0 seconds
+2013-07-31 08:19:16,834 closing socket
+2013-07-31 08:19:16,835 Socket timeout is set to 20.0 seconds
+2013-07-31 08:19:16,835 sending "This is the message." on port 5060
+2013-07-31 08:19:16,835 waiting to receive
+2013-07-31 08:19:17,669 closing socket
+2013-07-31 08:19:19,031 Socket timeout is set to 20.0 seconds
+2013-07-31 08:19:19,031 sending "This is the message." on port 5061
+2013-07-31 08:19:19,032 waiting to receive
+2013-07-31 08:19:19,579 received reply for port 5061
+2013-07-31 08:19:19,579 closing socket
+2013-07-31 08:19:19,579 Socket timeout is set to 20.0 seconds
+2013-07-31 08:19:19,579 sending "This is the message." on port 5060
+2013-07-31 08:19:19,579 waiting to receive
+2013-07-31 08:19:31,094 closing socket
+2013-07-31 08:19:44,993 Socket timeout is set to 5.0 seconds
+2013-07-31 08:19:44,993 sending "This is the message." on port 5061
+2013-07-31 08:19:44,994 waiting to receive
+2013-07-31 08:19:45,197 received reply for port 5061
+2013-07-31 08:19:45,197 closing socket
+2013-07-31 08:19:45,198 Socket timeout is set to 5.0 seconds
+2013-07-31 08:19:45,198 sending "This is the message." on port 5060
+2013-07-31 08:19:45,198 waiting to receive
+2013-07-31 08:19:50,199 Response timed out after 5.0 seconds
+2013-07-31 08:19:50,200 closing socket
+2013-07-31 08:19:52,263 Socket timeout is set to 5.0 seconds
+2013-07-31 08:19:52,263 sending "This is the message." on port 5061
+2013-07-31 08:19:52,264 waiting to receive
+2013-07-31 08:19:52,412 received reply for port 5061
+2013-07-31 08:19:52,412 closing socket
+2013-07-31 08:19:52,412 Socket timeout is set to 5.0 seconds
+2013-07-31 08:19:52,412 sending "This is the message." on port 5060
+2013-07-31 08:19:52,413 waiting to receive
+2013-07-31 08:19:57,414 Response timed out after 5.0 seconds
+2013-07-31 08:19:57,414 closing socket
+2013-07-31 10:05:27,720 Socket timeout is set to 7.0 seconds
+2013-07-31 10:05:27,720 sending "This is the message." on port 5061
+2013-07-31 10:05:27,721 waiting to receive
+2013-07-31 10:05:31,730 received reply for port 5061
+2013-07-31 10:05:31,730 closing socket
+2013-07-31 10:05:31,730 Socket timeout is set to 7.0 seconds
+2013-07-31 10:05:31,730 sending "This is the message." on port 5060
+2013-07-31 10:05:31,731 waiting to receive
+2013-07-31 10:05:38,731 Response timed out after 7.0 seconds
+2013-07-31 10:05:38,731 closing socket
+2013-07-31 10:05:43,539 Socket timeout is set to 7.0 seconds
+2013-07-31 10:05:43,539 sending "This is the message." on port 5061
+2013-07-31 10:05:43,540 waiting to receive
+2013-07-31 10:05:50,541 Response timed out after 7.0 seconds
+2013-07-31 10:05:50,541 closing socket
+2013-07-31 10:05:50,541 Socket timeout is set to 7.0 seconds
+2013-07-31 10:05:50,542 sending "This is the message." on port 5060
+2013-07-31 10:05:50,542 waiting to receive
+2013-07-31 10:05:57,543 Response timed out after 7.0 seconds
+2013-07-31 10:05:57,543 closing socket
+2013-07-31 10:06:25,312 Socket timeout is set to 20.0 seconds
+2013-07-31 10:06:25,312 sending "This is the message." on port 5061
+2013-07-31 10:06:25,313 waiting to receive
+2013-07-31 10:06:37,268 received reply for port 5061
+2013-07-31 10:06:37,268 closing socket
+2013-07-31 10:06:37,269 Socket timeout is set to 20.0 seconds
+2013-07-31 10:06:37,269 sending "This is the message." on port 5060
+2013-07-31 10:06:37,269 waiting to receive
+2013-07-31 10:06:57,270 Response timed out after 20.0 seconds
+2013-07-31 10:06:57,270 closing socket
+2013-07-31 10:07:17,643 Socket timeout is set to 15.0 seconds
+2013-07-31 10:07:17,644 sending "This is the message." on port 5061
+2013-07-31 10:07:17,644 waiting to receive
+2013-07-31 10:07:22,593 received reply for port 5061
+2013-07-31 10:07:22,593 closing socket
+2013-07-31 10:07:22,593 Socket timeout is set to 15.0 seconds
+2013-07-31 10:07:22,593 sending "This is the message." on port 5060
+2013-07-31 10:07:22,594 waiting to receive
+2013-07-31 10:07:37,595 Response timed out after 15.0 seconds
+2013-07-31 10:07:37,595 closing socket
+2013-07-31 10:08:14,644 Socket timeout is set to 5.0 seconds
+2013-07-31 10:08:14,644 sending "This is the message." on port 5061
+2013-07-31 10:08:14,645 waiting to receive
+2013-07-31 10:08:16,127 received reply for port 5061
+2013-07-31 10:08:16,127 closing socket
+2013-07-31 10:08:16,127 Socket timeout is set to 5.0 seconds
+2013-07-31 10:08:16,127 sending "This is the message." on port 5060
+2013-07-31 10:08:16,128 waiting to receive
+2013-07-31 10:08:21,129 Response timed out after 5.0 seconds
+2013-07-31 10:08:21,129 closing socket
+2013-07-31 10:08:22,626 Socket timeout is set to 5.0 seconds
+2013-07-31 10:08:22,626 sending "This is the message." on port 5061
+2013-07-31 10:08:22,627 waiting to receive
+2013-07-31 10:08:27,628 Response timed out after 5.0 seconds
+2013-07-31 10:08:27,628 closing socket
+2013-07-31 10:08:27,628 Socket timeout is set to 5.0 seconds
+2013-07-31 10:08:27,628 sending "This is the message." on port 5060
+2013-07-31 10:08:27,629 waiting to receive
+2013-07-31 10:08:32,629 Response timed out after 5.0 seconds
+2013-07-31 10:08:32,630 closing socket
+2013-07-31 10:08:33,638 Socket timeout is set to 5.0 seconds
+2013-07-31 10:08:33,638 sending "This is the message." on port 5061
+2013-07-31 10:08:33,639 waiting to receive
+2013-07-31 10:08:33,760 received reply for port 5061
+2013-07-31 10:08:33,760 closing socket
+2013-07-31 10:08:33,760 Socket timeout is set to 5.0 seconds
+2013-07-31 10:08:33,760 sending "This is the message." on port 5060
+2013-07-31 10:08:33,761 waiting to receive
+2013-07-31 10:08:38,762 Response timed out after 5.0 seconds
+2013-07-31 10:08:38,762 closing socket
+2013-07-31 10:14:02,746 Socket timeout is set to 5.0 seconds
+2013-07-31 10:14:02,746 sending "This is the message." on port 5061
+2013-07-31 10:14:02,747 waiting to receive
+2013-07-31 10:14:07,747 Response timed out after 5.0 seconds
+2013-07-31 10:14:07,748 closing socket
+2013-07-31 10:14:07,748 Socket timeout is set to 5.0 seconds
+2013-07-31 10:14:07,748 sending "This is the message." on port 5060
+2013-07-31 10:14:07,748 waiting to receive
+2013-07-31 10:14:11,344 received reply for port 5060
+2013-07-31 10:14:11,344 closing socket
+2013-07-31 10:14:13,034 Socket timeout is set to 5.0 seconds
+2013-07-31 10:14:13,034 sending "This is the message." on port 5061
+2013-07-31 10:14:13,035 waiting to receive
+2013-07-31 10:14:16,930 received reply for port 5061
+2013-07-31 10:14:16,930 closing socket
+2013-07-31 10:14:16,930 Socket timeout is set to 5.0 seconds
+2013-07-31 10:14:16,931 sending "This is the message." on port 5060
+2013-07-31 10:14:16,931 waiting to receive
+2013-07-31 10:14:18,203 received reply for port 5060
+2013-07-31 10:14:18,203 closing socket
